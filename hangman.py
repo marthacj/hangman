@@ -1,0 +1,2 @@
+#Hangman project
+git init
